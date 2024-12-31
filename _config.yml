@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   A blog for people curious about Low level Computer Science. I post blogs revolving around Theory of Computation, Computer Organization and Architecture, Data Structures and Algorithms, and Computer Networking.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: shubh64337
-github_username:  shubham64337
+twitter_username: curiouscs
+github_username:  ShubhamSharma64337
 
 # Build settings
 theme: minima
