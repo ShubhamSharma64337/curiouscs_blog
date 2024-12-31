@@ -2,7 +2,6 @@
 layout: post
 title:  "What end-to-end encryption actually means"
 ---
-![Encryption Process](/assets/encryption.jpg)
 #### **Preliminaries** -  
 ##### **Message** - Information that you want to send to someone
 ##### **Plain Text** - Information in the form that you and receiver can read and understand easily.
